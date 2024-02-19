@@ -3,7 +3,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    background-image: url("moroccan-flower.png");
+    background-image: url("images/moroccan-flower.png");
 }
 
 nav {
